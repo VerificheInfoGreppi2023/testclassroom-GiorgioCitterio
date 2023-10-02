@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "FiraCode-Regular.ttf",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "D2Coding",
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500
+}
